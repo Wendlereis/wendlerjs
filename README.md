@@ -1,14 +1,14 @@
 # WendlerJs
 
-<center>
+<p align="center">
   <img src="https://user-images.githubusercontent.com/6570553/98684869-72c28b80-2345-11eb-999e-d9c10153729d.png" width="300" />
-</center>
+</p align="center">
 
+<p align="center">
+  <b>WendlerJs</b> is a tiny <a href="https://reactjs.org/">react</a> engine. The purpose of it is to learn how react works by replicate its main features in a simple way
+</p align="center">
 
-## **WendlerJs** is a tiny [react](https://reactjs.org/) engine. The purpose of it is to learn how react works by replicate its main features in a simple way
-
-
-### Contributors
+## Contributors
 
 <table>
   <tr>
